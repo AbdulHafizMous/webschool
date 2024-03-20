@@ -14,7 +14,7 @@ Assurez-vous que vous avez installé les logiciels suivants sur votre machine :
 
 2-	Configurations
 
-- Clonez ce dépôt sur votre machine en utilisant la commande suivante :  git clone https://github.com/votre_utilisateur/supercool.git
+- Clonez ce dépôt sur votre machine en utilisant la commande suivante :  git clone https://github.com/AbdulHafizMous/webschool.git
 - Décompressez le dossier zippé du projet et le placer sur le répertoire serveur(www ou htdocs) en fonction du serveur web dont vous disposez. 
 - Lancez votre serveur local puis créez une nouvelle base de donnée nommée ‘webschool’ pour y importer le fichier (webschool/database/webschool.sql) du projet cloné.
 - Ouvrir le dossier 'webschool/programme' avec l'éditeur de code et un terminal dans ce dossier puis lancer la commande 'php artisan serve' pour lancer le projet sur votre serveur local.
